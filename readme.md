@@ -4,3 +4,5 @@ Set-ExecutionPolicy RemoteSigned
 Add-AppxPackage .\Ubuntu.appx
 wsl --list --verbose
 
+https://learn.microsoft.com/windows/wsl/install-manual
+
